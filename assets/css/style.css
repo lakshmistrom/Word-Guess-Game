@@ -1,0 +1,15 @@
+/* main content */
+
+/* brings everything to the center of the page */
+html,body{
+    height: 100%;
+    display: grid;
+}
+.container{
+    margin: auto;
+}
+/* will allow to display extra spaces to be shown between hyphens */
+#displayProgress, #displayAlreadyUsedLetters{
+    font-family: 'Source Code Pro', monospace;
+    letter-spacing: 5px;
+}
