@@ -1,5 +1,4 @@
 # Word-Guess-Game
-Homework 3 assignment
 
 We were tasked with creating a hangman game and chose to do a retro style user interface.
 
